@@ -1,0 +1,20 @@
+{
+    "name": "OneGrid NFT collection",
+    "description": "NFT collection for ... . This unique collection 1 of ... NFTs available",
+    "image": "ipfs://QmVNahucgMT3MhDNgb5JCMm5X28Lkd3hEwXJHfnWL4WHW9/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Letters",
+        "value": "White"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Black"
+      }
+    ]
+  }
